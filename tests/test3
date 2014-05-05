@@ -1,0 +1,16 @@
+insert a
+isnert s
+insert a b c
+remove a
+insert b
+insert c
+insert asdf!#$?
+display
+find c
+find b
+find c
+display
+insert asdf!#$?
+display
+report
+quit

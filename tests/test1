@@ -1,0 +1,16 @@
+insert    word
+remove   word
+insert  word2345
+insert  word2345
+find word2345
+remove wordy
+find word
+display
+insert a
+insert  b
+insert  hj
+insert  q
+find q
+display
+report
+quit

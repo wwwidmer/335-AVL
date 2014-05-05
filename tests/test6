@@ -1,0 +1,16 @@
+display
+ insert h
+ insert b
+insert c
+      insert word
+insert cat
+insert CAT
+
+remove c
+display
+remove b
+
+remove word
+display
+report
+quit
